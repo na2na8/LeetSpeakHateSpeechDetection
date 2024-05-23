@@ -1,5 +1,5 @@
 # LeetSpeakHateSpeechDetection
-야민정음과 같은 Leet Speak을 사용한 혐오 발언 탐지
+야민정음과 같은 Leet Speak을 다루는 혐오 발언 탐지
 - 시도만 해 봄. 근본적으로 가지고 있는 데이터에서 Leet Speak 수가 현저히 적어 성능 개선이 미미함
 - VIPER로 정상데이터에 노이즈를 주어 샘플을 만들고 한국어 TrOCR을 사용하여 정상데이터로 복원하도록 하는 것을 목표로 하였음
 
